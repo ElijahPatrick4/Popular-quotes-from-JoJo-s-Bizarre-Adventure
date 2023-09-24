@@ -7,7 +7,7 @@ These are popular quotes and lines from the hit Japanese manga and animated show
 <br>
 <h2> 1) Kira Yoshikage </h2>
 <p> "私の名は吉良吉影。年33歳。一つの会社に勤めるサラリーマンだ。 平均的な趣味、平均的な嗜好、平均的な生活。平穏な日常が、私の最大の幸せ。しかし、秘密が一つだけある。私の「スタンド」の名前は「キラー・クイーン」。その能力は、何もかもを爆破すること。吾輩の爆破は、他者には解明不能な「第一の爆発」をもたらす。 さらに、ふたつ目の爆発が起こる前に、一つ目の爆発の証拠を消し去ることができる。だから、私は決して逮捕されたりしない。逮捕されないために、私はあらゆる痕跡を抹消する。しかし、たとえ探偵が現れたとしても、その探偵をあらゆる爆発から守るために、私はこの町を安全に保つのだ。" </p>
-<img src="[https://th.bing.com/th/id/OIP.Fxic4HDdf3C3rpe4wfdZcwHaEK?w=331&h=186&c=7&r=0&o=5&pid=1.7](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwE9oLdZahFAn_kisMRaw0k_ZnHfTVqOLhAA&usqp=CAU)" alt="Kira Yoshikage" width="500" height="333">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwE9oLdZahFAn_kisMRaw0k_ZnHfTVqOLhAA&usqp=CAU" alt="Kira Yoshikage" width="500" height="333">
 <br>
 <h2> 2) Jotaro vs Dio </h2>
 <p> Dio Brando: "おお？ 俺に近づいて来るのか？ 逃げるのではなく、近づいて来るのか？" </p>
