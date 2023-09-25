@@ -14,7 +14,8 @@ These are popular quotes and lines from the hit Japanese manga and animated show
 <p> Dio Brando: "おお？ 俺に近づいて来るのか？ 逃げるのではなく、近づいて来るのか？" </p>
 <p> Jotaro Kujo: "お前を叩きのめすには、近づかないとならないんだ。" </p>
 <p> Dio Brando: "ほほう、どんどん近づいてこい。" </p>
-<img src="https://th.bing.com/th/id/OIP.oMPE6niJFb7StKmSXFOjfwHaEK?w=321&h=180&c=7&r=0&o=5&pid=1.7" alt="Jotaro vs Dio" width="500" height="333">
+<img src="[https://th.bing.com/th/id/OIP.oMPE6niJFb7StKmSXFOjfwHaEK?w=321&h=180&c=7&r=0&o=5&pid=1.7](https://preview.redd.it/atjo1wd6d9j31.jpg?width=800&format=pjpg&auto=webp&s=9200c676143bb41c4d91d21d3c9b4cbf138e05dd)" alt="Jotaro vs Dio" width="500" height="333">
+<em>Credit: Reddit (<a>https://www.reddit.com/r/StardustCrusaders/comments/cwrav9/dio_vs_jotaro_full_fight_script_english/</a>)</em>
 <br>
 <h2> 3) Secret Joestar Technique explained by Joseph Joestar </h2>
 <p>  "説明しよう。これはジョジョスター家に2000年にわたり伝えられてきた究極のテクニックだ！私はこれを『秘密のジョジョスターのテクニック』と呼んでいる！今、君たちに見せるのは言葉では説明できないものだ！私たちの中には善と悪が常に戦い続けている。そして、この『秘密のジョジョスターのテクニック』は、人間の精神から生まれた究極の力だ！これは、相手の次の動きを予測する力を私に与える！それだけではない！私は自分の呼吸をコントロールして、筋肉にさらなる力を与えることもできる！では、こういうことだ。私は深呼吸をし、それを一瞬保持してから、息を吹き出す。それはくしゃみをするようなものだ、本当に！しかし、息を保持しているその一瞬が最も重要な部分だ。それが私に次の動きをはっきりと見せてくれる瞬間なのだ！では、どうだろう？もう降参する覚悟はできたか？" </p>
