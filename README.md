@@ -50,7 +50,7 @@
 <h2>7) Kono Dio Da!</h2>
 <p> "エリナ、もうお前の一挙手一投足はすべて分かっている。逃げることはできない。美しくなったな、エリナ。でも、考えてしまう。あの日お前と出会わなければ、お前が俺に初めてのキスを奪われるという屈辱も、なかったことになっていただろうと。"</p>
 <img src="https://i.ytimg.com/vi/wLoRiTk-awo/maxresdefault.jpg" alt="Kono Dio Da!" width="500" height="300">
-<em>Credit: Youtube (https://www.youtube.com/watch?v=wLoRiTk-awo)</em>
+<em>Credit: Youtube (<a href="https://www.youtube.com/watch?v=wLoRiTk-awo" target="_blank">Source Link</a>)</em>
 <h3> These are all famous quotes from Jojo's Bizarre Adventure </h3>
 </body>
 </html>
