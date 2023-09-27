@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html style="background-color:LightBlue;">
+<html style="background-color:LightPurple;">
 <Title>Famous Quotes from JJBA</Title>
 <body>
 <h1> Famous quotes from Jojo's Bizarre Adventure </h1>
